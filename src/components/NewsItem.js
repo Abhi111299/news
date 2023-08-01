@@ -13,6 +13,7 @@ export class NewsItem extends Component {
           <a href={newsUrl} target="_blank" className="btn btn-primary">Read More</a>
         </div>
       </div>
+     
       </div>
     )
   }
